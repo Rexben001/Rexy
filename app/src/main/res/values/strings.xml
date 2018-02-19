@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Rexy</string>
+    <string name="question_5">Who designed Android\'s Logo?   Enter the full name below.</string>
+    <string name="hint_quiz_5">E.g. Larry Page</string>
+    <string name="submit">Submit</string>
+    <string name="question_3">Alphabet is the name of google parent company?   True or False?</string>
+    <string name="true_or_false">True or False</string>
+    <string name="option_2_quiz_2">Headquarters of Udacity</string>
+    <string name="option_3_quiz_2">A SmartPhone</string>
+    <string name="option_1_quiz_2">A programming Language</string>
+    <string name="question_2">What is Kotlin?</string>
+    <string name="question_4">What is the first Smart phone to work on Android platform?</string>
+    <string name="nexus">Nexus</string>
+    <string name="samsung">Samsung</string>
+    <string name="htc_dream">HTC Dream</string>
+    <string name="kitkat">KitKat</string>
+    <string name="gingerbread">GingerBread</string>
+    <string name="cupcake">Cupcake</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="question_1">Check the boxes that have the names of Android versions</string>
+    <string name="answer_2">A programming Language</string>
+    <string name="answer_1">Kitkat, GingerBread and Cupcake</string>
+    <string name="answer_3">True</string>
+    <string name="answer_4">HTC Dream</string>
+    <string name="answer_5">Irina Blok</string>
+    <string name="que_1">Question 1</string>
+    <string name="que_2">Question 2</string>
+    <string name="que_3">Question 3</string>
+    <string name="que_4">Question 4</string>
+    <string name="que_5">Question 5</string>
+    <string name="total_score">Total Score</string>
+    <string name="no_of_correct_answers_no_of_questions">Correct answers / No. of Questions</string>
+    <string name="total_earned">Total earned points</string>
+    <string name="reset">Reset</string>
+</resources>
